@@ -1,0 +1,9 @@
+{
+  "orgName": "samir company",
+  "edition": "Developer",
+  "features": ["API","ConnectedAppToolingAPI","DebugApex"],
+  "language": "en_US",
+  "settings": {
+
+  }
+}
